@@ -1,5 +1,5 @@
-Bandit Scan
-Run Python Bandit scan on your codebase.
+## Run Python Bandit scan on your codebase.
+name: BanditScan
 
 About
 Bandit is a tool designed to find common security issues in Python code. This action will run Bandit on your codebase. The results of the scan will be found under the Security tab of your repository.
